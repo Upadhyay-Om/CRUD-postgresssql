@@ -103,6 +103,7 @@ Body Example:
 }
 
 
+
 Validation Rules:
 
 name → required string (1–100 chars)
